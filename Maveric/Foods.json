@@ -1,0 +1,37 @@
+
+[
+{
+    "image": "bread",
+    "name": "Bread"
+},
+{
+    "image": "burger",
+    "name": "Burger"
+},
+{
+    "image": "cupcake",
+    "name": "Cupcake"
+},
+{
+    "image": "doughnut",
+    "name": "Doughnut"
+},
+{
+    "image": "frenchfries",
+    "name": "French Fries"
+},
+{
+    "image": "milkshake",
+    "name": "Milk Shake"
+},
+{
+    "image": "pizza",
+    "name": "Pizza"
+},
+{
+    "image": "sushi",
+    "name": "Sushi"
+}
+
+
+]
